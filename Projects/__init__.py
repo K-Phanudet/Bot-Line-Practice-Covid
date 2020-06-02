@@ -49,7 +49,7 @@ def Get_covid():
                     "contents": [
                         {
                         "type": "icon",
-                        "url": "https://image.flaticon.com/icons/svg/2913/2913584.svg"
+                        "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/review_gold_star_28.png"
                         },
                         {
                         "type": "text",
