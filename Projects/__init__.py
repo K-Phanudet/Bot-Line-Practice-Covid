@@ -73,7 +73,7 @@ def Get_covid():
                     "contents": [
                         {
                         "type": "icon",
-                        "url": "https://lh3.googleusercontent.com/proxy/ZKbJOmXZHWPo61-7Koy04O7Ft-riRVuBuhDuXRxylwLf9CK1j1C7S5ABgGdJPm8M8NxxNLyTuim7yvMICMY9vAw4sOC1t8rAYLpbYg"
+                        "url": "https://cdn.iconscout.com/icon/free/png-256/hospital-doctor-medicine-emergency-service-healthcare-emoj-symbol-30736.png"
                         },
                         {
                         "type": "text",
