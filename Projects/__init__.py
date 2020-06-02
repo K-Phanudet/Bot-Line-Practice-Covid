@@ -73,7 +73,7 @@ def Get_covid():
                     "contents": [
                         {
                         "type": "icon",
-                        "url": "https://image.flaticon.com/icons/svg/2941/2941506.svg"
+                        "url": "https://lh3.googleusercontent.com/proxy/ZKbJOmXZHWPo61-7Koy04O7Ft-riRVuBuhDuXRxylwLf9CK1j1C7S5ABgGdJPm8M8NxxNLyTuim7yvMICMY9vAw4sOC1t8rAYLpbYg"
                         },
                         {
                         "type": "text",
