@@ -49,7 +49,7 @@ def Get_covid():
                     "contents": [
                         {
                         "type": "icon",
-                        "url": "https://cdn.pixabay.com/photo/2016/03/31/19/17/cartoon-1294877_640.png"
+                        "url": "https://cdn.pixabay.com/photo/2020/04/29/07/54/coronavirus-5107715_1280.png"
                         },
                         {
                         "type": "text",
@@ -98,7 +98,7 @@ def Get_covid():
                     "contents": [
                         {
                         "type": "icon",
-                        "url": "https://image.flaticon.com/icons/svg/2634/2634250.svg"
+                        "url": "https://image.flaticon.com/icons/png/512/564/564276.png"
                         },
                         {
                         "type": "text",
@@ -123,7 +123,7 @@ def Get_covid():
                     "contents": [
                         {
                         "type": "icon",
-                        "url": "https://image.flaticon.com/icons/svg/2947/2947904.svg"
+                        "url": "https://lh3.googleusercontent.com/proxy/Dje3mfTMaiMesS94wbSoOmJpBZFHFHX1lUnrts5530mk6GXI4VY3l8lxCBmdZ1m1kO4YrlN08EPDJ8lw7Gi2m1dP_D3Dc3dZt7kwFrzuNkL5G5pcP2zznJmC8Q"
                         },
                         {
                         "type": "text",
@@ -147,7 +147,7 @@ def Get_covid():
                     "contents": [
                         {
                         "type": "icon",
-                        "url": "https://image.flaticon.com/icons/svg/726/726476.svg"
+                        "url": "https://static.thenounproject.com/png/113949-200.png"
                         },
                         {
                         "type": "text",
@@ -171,7 +171,7 @@ def Get_covid():
                     "contents": [
                         {
                         "type": "icon",
-                        "url": "https://image.flaticon.com/icons/svg/845/845652.svg"
+                        "url": "https://image.flaticon.com/icons/png/512/314/314373.png"
                         },
                         {
                         "type": "text",
