@@ -1,7 +1,7 @@
 from flask import Flask, request, abort
 import requests
 import json
-from Project.Config import *
+from Projects.Config import *
 app = Flask(__name__)
 
 
