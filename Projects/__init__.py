@@ -244,7 +244,7 @@ def webhook():
 
 @app.route('/')
 def hello():
-    return 'hello world book',200
+    return 200
 
 def ReplyMessage(Reply_token, TextMessage, Line_Acees_Token):
     LINE_API = 'https://api.line.me/v2/bot/message/reply'
