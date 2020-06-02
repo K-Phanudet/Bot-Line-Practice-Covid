@@ -98,7 +98,7 @@ def Get_covid():
                     "contents": [
                         {
                         "type": "icon",
-                        "url": "https://image.flaticon.com/icons/png/512/564/564276.png"
+                        "url": "https://www.clipartmax.com/png/middle/11-116631_size-health-flat-icon-png.png"
                         },
                         {
                         "type": "text",
@@ -171,7 +171,7 @@ def Get_covid():
                     "contents": [
                         {
                         "type": "icon",
-                        "url": "https://image.flaticon.com/icons/png/512/314/314373.png"
+                        "url": "https://cdn.pixabay.com/photo/2017/10/10/00/16/flat-2835467_960_720.png"
                         },
                         {
                         "type": "text",
